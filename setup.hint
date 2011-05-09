@@ -1,0 +1,4 @@
+category: Audio
+requires: libao4 libmodplug1
+sdesc: "Command line MOD audio players"
+ldesc: "Command line MOD audio players"

@@ -1,0 +1,3 @@
+DESCRIPTION="MOD music utilities"
+HOMEPAGE="http://modplug-xmms.sourceforge.net/"
+SRC_URI="mirror://sourceforge/modplug-xmms/${P}.tar.gz"
