@@ -1,0 +1,8 @@
+NAME="modplugtools"
+VERSION=0.5.3
+RELEASE=1
+CATEGORY="Audio"
+SUMMARY="Command line MOD audio players"
+DESCRIPTION="Command line MOD audio players"
+HOMEPAGE="http://modplug-xmms.sourceforge.net/"
+SRC_URI="mirror://sourceforge/modplug-xmms/${NAME}-${VERSION}.tar.gz"
